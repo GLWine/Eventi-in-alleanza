@@ -76,9 +76,9 @@ Completare il maggior numero possibile di onorificenze da fare in alleanza:
 <!-- Separazione tra il terzo ed il quarto messaggio -->
 
 ## Note
-- Qualora qualcuno desiderasse qualche informazione in più sulle dinamiche degli eventi in alleanza che verranno affrontati, possono visitare tranquillamente il canale YouTube degli scalmanati e consultare le due guide:
- - :SocialYoutube: [Pirati Scalmanati - Guida completa alla leggenda di Glitterbeard](<https://youtu.be/b1DFdOhGtWM?si=7szjLIP4bvsSdZtp>);
- - :SocialYoutube: [Pirati Scalmanati - Guida completa ai Troni degli scheletri](<https://youtu.be/GYnQ4SWh7eg?si=oewxLWa-jUWP4YpK&t=285>);
+- Il numero di navi e di server potrebbe variare in funzione del numero di partecipanti raggiunto entro il giorno dell'evento
+- Qualora qualcuno desiderasse qualche informazione in più sulle dinamiche degli eventi in alleanza che verranno affrontati, possono visitare tranquillamente il canale YouTube degli scalmanati e consultare una delle numerosissime guide:
+ - :SocialYoutube: [Sea of Thieves ITA - Pirati Scalmanati](<https://www.youtube.com/@seaofthievesIta>).
 
 ### ATTENZIONE:
 Screzi, combattimenti ingiustificati tra pirati scalmanati o comportamenti "tossici" ai fini del gioco comune comporterà l'allontanamento dall'evento in alleanza e dal gruppo stesso.
