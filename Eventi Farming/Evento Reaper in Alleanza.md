@@ -20,7 +20,7 @@ Cercheremo di portare a casa il maggior numuero degli eventi che spawneranno nei
 ## Note
 - Il numero di navi e di server potrebbe variare in funzione del numero di partecipanti raggiunto entro il giorno dell'evento
 - Qualora qualcuno desiderasse qualche informazione in più sulle dinamiche degli eventi in alleanza che verranno affrontati, possono visitare tranquillamente il canale YouTube degli scalmanati e consultare una delle numerosissime guide:
- - :SocialYoutube: [Sea of Thieves ITA - Pirati Scalmanati](<https://www.youtube.com/c/SeaofThievesITAPiratiScalmanati>)
+ - :SocialYoutube: [Sea of Thieves ITA - Pirati Scalmanati](<https://www.youtube.com/@seaofthievesIta>).
 
 ### ATTENZIONE:
 Screzi, combattimenti ingiustificati tra pirati scalmanati o comportamenti "tossici" ai fini del gioco comune comporterà l'allontanamento dall'evento in alleanza e dal gruppo stesso.
