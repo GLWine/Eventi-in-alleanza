@@ -1,54 +1,32 @@
-![Splash_Screen_Evento_Onorificenze_in_Alleanza](https://github.com/GLWine/Eventi-in-alleanza/blob/main/Eventi%20Onorificenze/Assets/Evento_Onorificenze_in_Alleanza.png?raw=true)
+<!-- Revisione: 1.1; Modificato da: Giampiero; Ultima modifica:2024/03/20 -->
+![Splash_Screen_Evento_Onorificenze_in_Alleanza](https://github.com/GLWine/Eventi-in-alleanza/blob/main/Eventi%20Onorificenze/Assets/Evento_Onorificenze_in_Alleanza_21-9_ca_crop.png?raw=true)
 <!-- Non copiare il messazzio sopra nel messaggi Discord,utile solo per comodità visiva -->
 # EVENTO ONORIFICENZE IN ALLEANZA
-Questi sono tutti e 25 gli obbiettivi che sono possibili ottenere durante un'alleanza in Sea Of Thieves
-1. **Pigiama party** 
- └ Hai dormito in un letto sulla nave di un'altra ciurma;
-2. **Colpo d'avvertimento** 
- └ Hai acceso un razzo di segnalazione mentre un'altra ciurma si trovava nelle vicinanze;
-3. **Complotti e polvere da sparo** 
- └ Hai dato fuoco alla nave di un'altra ciurma facendo esplodere un fuoco d'artificio;
-4. **Celi di amicizia** 
- └ Hai fatto esplodere i fuochi d'artificio mentre facevi parte di un'alleanza;
-5. **Alleanza dei Dannati**
- └ Eri un un'alleanza con tutte le lanterne delle navi accese e dello stesso colore;
-6. **Un boccale tra furfanti** 
- └ Ti sei seduto al tavolo di una taverna insieme ad altri pirati;
-7. **Questa è zona mia!**
- └ Hai colpito la nave di un'altra ciurma con un cannone dei Forti del mare;
-8. **Stanza condivisa** 
- └ Hai condiviso un letto a castello con un altro Pirata;
-9. **Merci ardenti**
- └ Hai venduto 5 forzieri della rabbia rubati. (5/5);
-10. **Non c'è niente da vedere**
- └ Hai sepolto un tesoro prezioso mentre un'altra ciurma si trovava nella stessa posizione;
-11. **Seppellire il passato**
- └ Hai sepolto tesori preziosi che erano stati a un'altra ciurma;
-12. **Segreti Rubati**
- └ Hai posizionato un bundle mappe rubato sul tavolo del Capitano;
-13. **Gli equipaggi maledetti**
- └ Hai completato 1 viaggio come equipaggio battente bandiera del Marchio del mietitore mentre facevi parte di un'alleanza;
-14. **Piccola ma potente**
- └ Hai sparato a un'altra nave usando una barca a remi munita di cannone. (25/25);
-15. **Chiave dei ladri**
- └ Hai usato una Chiave cinerea rubata. Più svelto che imparare a forzare una serratura;
-16. **Incursore di tomi**
- └ Hai aperto un Forziere cinereo rubato. Perché vuoi fare tutto da te, giusto?;
-17. **Unito contro i Dannati**
- └ Rango III: Hai distrutto 25 Navi fantasma mentre eri in un'alleanza (25/25).
-18. **Unito contro le fiamme**
- └ Hai sconfitto la Burning Blade mentre eri in un'alleanza.
-19. **Unione di flagelli delle navi degli scheletri**
- └ Hai sconfitto 25 navi degli scheletri mentre eri in un'alleanza (25/25);
-20. **Inferno nella fortezza ardente**
- └ Hai usato 10 volte il fuoco contro 5 scheletri contemporaneamente in un forte attivo e con un'altra ciurma presente. (10/10);
-21. **La congiura delle polveri**
- └ Hai distrutto 5 scheletri contemporaneamente sparando a uno scheletro della polvere da sparo in un forte attivo, con almeno un'altra ciurma sull'isola;
-22. **La maledizione della Pacifist Demise**
- └ Hai maledetto la nave di un altro equipaggio con la palla della pace mentre battevi bandiera del Marchio del mietitore;
-23. **La maledizione della Thieves Burden**
- └ Hai maledetto la nave di un altro equipaggio con la palla zavorrante mentre battevi bandiera del Marchio del mietitore;
-24. **La maledizione della Siren's Gale**
- └ Hai maledetto la nave di un altro equipaggio con la palla del ristagno mentre battevi bandiera del Marchio del mietitore;
-25. **La maledizione della Treacherous Bounty**
- └ Hai maledetto la nave di un altro equipaggio con la palla dei barili mentre battevi bandiera del Marchio del mietitore;
+Quest sono le 25 onorificenze che è possibili ottenere durante un'alleanza in Sea Of Thieves
+| Stemma | Nome onorificenza | Descrizione |
+| :---: | :--- | :--- |
+| <img alt="Pigiama_party.png" src="/Eventi%20Onorificenze/Assets/Icone%20Onorificenze/Pigiama_party.png" style="width: 80px;"> | Pigiama party | Hai dormito in un letto sulla nave di un'altra ciurma; |
+| <img alt="Colpo_d'avvertimento.png" src="/Eventi%20Onorificenze/Assets/Icone%20Onorificenze/Colpo_d'avvertimento.png" style="width: 80px;"> | Colpo d'avvertimento | Hai acceso un razzo di segnalazione mentre un'altra ciurma si trovava nelle vicinanze; |
+| <img alt="Complotti_e_polvere_da_sparo.png" src="/Eventi%20Onorificenze/Assets/Icone%20Onorificenze/Complotti_e_polvere_da_sparo.png" style="width: 80px;"> | Complotti e polvere da sparo | Hai dato fuoco alla nave di un'altra ciurma facendo esplodere un fuoco d'artificio; |
+| <img alt="Cieli_di_amicizia.png" src="/Eventi%20Onorificenze/Assets/Icone%20Onorificenze/Cieli_di_amicizia.png" style="width: 80px;"> | Cieli di amicizia | Hai fatto esplodere i fuochi d'artificio mentre facevi parte di un'alleanza; |
+| <img alt="Alleanza_dei_Dannati.png" src="/Eventi%20Onorificenze/Assets/Icone%20Onorificenze/Alleanza_dei_Dannati.png" style="width: 80px;"> | Alleanza dei Dannati | Eri un un'alleanza con tutte le lanterne delle navi accese e dello stesso colore; |
+| <img alt="Un_boccale_tra_furfanti.png" src="/Eventi%20Onorificenze/Assets/Icone%20Onorificenze/Un_boccale_tra_furfanti.png" style="width: 80px;"> | Un boccale tra furfanti | Ti sei seduto al tavolo di una taverna insieme ad altri pirati; |
+| <img alt="Questa_e'_zona_mia!.png" src="/Eventi%20Onorificenze/Assets/Icone%20Onorificenze/Questa_e'_zona_mia!.png" style="width: 80px;"> | Questa è zona mia! | Hai colpito la nave di un'altra ciurma con un cannone dei Forti del mare; |
+| <img alt="Stanza_condivisa.png" src="/Eventi%20Onorificenze/Assets/Icone%20Onorificenze/Stanza_condivisa.png" style="width: 80px;"> | Stanza condivisa | Hai condiviso un letto a castello con un altro Pirata; |
+| <img alt="Merci_ardenti.png" src="/Eventi%20Onorificenze/Assets/Icone%20Onorificenze/Merci_ardenti.png" style="width: 80px;"> | Merci ardenti | Hai venduto 5 forzieri della rabbia rubati. (5/5); |
+| <img alt="Non_c'e'_niente_da_vedere.png" src="/Eventi%20Onorificenze/Assets/Icone%20Onorificenze/Non_c'e'_niente_da_vedere.png" style="width: 80px"> | Non c'è niente da vedere | Hai sepolto un tesoro prezioso mentre un'altra ciurma si trovava nella stessa posizione; |
+| <img alt="Seppellire_il_passato.png" src="/Eventi%20Onorificenze/Assets/Icone%20Onorificenze/Seppellire_il_passato.png" style="width: 80px;"> | Seppellire il passato | Hai sepolto tesori preziosi che erano stati a un'altra ciurma; |
+| <img alt="Segreti_rubati.png" src="/Eventi%20Onorificenze/Assets/Icone%20Onorificenze/Segreti_rubati.png" style="width: 80px;"> | Segreti rubati | Hai posizionato un bundle mappe rubato sul tavolo del Capitano; |
+| <img alt="Gli_Equipaggi_Maledetti.png" src="/Eventi%20Onorificenze/Assets/Icone%20Onorificenze/Gli_Equipaggi_Maledetti.png" style="width: 80px;"> | Gli Equipaggi Maledetti|  Hai completato 1 viaggio come equipaggio battente bandiera del Marchio del mietitore mentre facevi parte di un'alleanza; |
+| <img alt="Piccola_ma_potente.png" src="/Eventi%20Onorificenze/Assets/Icone%20Onorificenze/Piccola_ma_potente.png" style="width: 80px;"> | Piccola ma potente | Hai sparato a un'altra nave usando una barca a remi munita di cannone. (25/25); |
+| <img alt="Chiave_dei_ladri.png" src="/Eventi%20Onorificenze/Assets/Icone%20Onorificenze/Chiave_dei_ladri.png" style="width: 80px;"> | Chiave dei ladri | Hai usato una Chiave cinerea rubata. Più svelto che imparare a forzare una serratura; |
+| <img alt="Incursore_di_tomi.png" src="/Eventi%20Onorificenze/Assets/Icone%20Onorificenze/Incursore_di_tomi.png" style="width: 80px;"> | Incursore di tomi | Hai aperto un Forziere cinereo rubato. Perché vuoi fare tutto da te, giusto?; |
+| <img alt="Uniti_contro_i_Dannati.png" src="/Eventi%20Onorificenze/Assets/Icone%20Onorificenze/Uniti_contro_i_Dannati.png" style="width: 80px;"> | Uniti contro i Dannati| Rango III: Hai distrutto 25 Navi fantasma mentre eri in un'alleanza (25/25). |
+| <img alt="Uniti_contro_la_fiamma.png" src="/Eventi%20Onorificenze/Assets/Icone%20Onorificenze/Uniti_contro_la_fiamma.png" style="width: 80px;"> | Uniti contro la fiamma | Hai sconfitto la Burning Blade mentre eri in un'alleanza. |
+| <img alt="Unione_di_flagelli_delle_navi_degli_scheletri.png" src="/Eventi%20Onorificenze/Assets/Icone%20Onorificenze/Unione_di_flagelli_delle_navi_degli_scheletri.png" style="width: 80px;"> | Unione di flagelli delle navi degli scheletri | Hai sconfitto 25 navi degli scheletri mentre eri in un'alleanza (25/25); |
+| <img alt="Inferno_nella_fortezza_ardente.png" src="/Eventi%20Onorificenze/Assets/Icone%20Onorificenze/Inferno_nella_fortezza_ardente.png" style="width: 80px;"> | Inferno nella fortezza ardente | Hai usato 10 volte il fuoco contro 5 scheletri contemporaneamente in un forte attivo e con un'altra ciurma presente. (10/10); |
+| <img alt="La_congiura_delle_polveri.png" src="/Eventi%20Onorificenze/Assets/Icone%20Onorificenze/La_congiura_delle_polveri.png" style="width: 80px;"> | La congiura delle polveri | Hai distrutto 5 scheletri contemporaneamente sparando a uno scheletro della polvere da sparo in un forte attivo, con almeno un'altra ciurma sull'isola; | 
+ | <img alt="La_maledizione_della_Pacifist_Demise.png" src="/Eventi%20Onorificenze/Assets/Icone%20Onorificenze/La_maledizione_della_Pacifist_Demise.png" style="width: 80px;"> | La maledizione della Pacifist Demise | Hai maledetto la nave di un altro equipaggio con la palla della pace mentre battevi bandiera del Marchio del mietitore; |
+ | <img alt="La_maledizione_della_Thieves_Burden.png" src="/Eventi%20Onorificenze/Assets/Icone%20Onorificenze/La_maledizione_della_Thieves_Burden.png" style="width: 80px;"> | La maledizione della Thieves Burden | Hai maledetto la nave di un altro equipaggio con la palla zavorrante mentre battevi bandiera del Marchio del mietitore; |
+| <img alt="La_maledizione_della_Siren's_Gale.png" src="/Eventi%20Onorificenze/Assets/Icone%20Onorificenze/La_maledizione_della_Siren's_Gale.png" style="width: 80px;"> | La maledizione della Siren's Gale | Hai maledetto la nave di un altro equipaggio con la palla del ristagno mentre battevi bandiera del Marchio del mietitore; |
+| <img alt="La_maledizione_della_Treacherous_Bounty.png" src="/Eventi%20Onorificenze/Assets/Icone%20Onorificenze/La_maledizione_della_Treacherous_Bounty.png" style="width: 80px;"> | La maledizione della Treacherous Bounty | Hai maledetto la nave di un altro equipaggio con la palla dei barili mentre battevi bandiera del Marchio del mietitore; |
