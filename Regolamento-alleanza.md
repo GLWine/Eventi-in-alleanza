@@ -1,42 +1,35 @@
-:Libro6Fogli: 1:「 ᴘʀᴇᴘᴀʀᴀᴢɪᴏɴᴇ 」
-𝟏.𝟏: 𝐒𝐞 𝐬𝐞𝐢 𝐧𝐮𝐨𝐯𝐨 𝐝𝐞𝐥 𝐠𝐢𝐨𝐜𝐨 𝐚𝐯𝐯𝐢𝐬𝐚 𝐢𝐧 𝐚𝐧𝐭𝐢𝐜𝐢𝐩𝐨, 𝐬𝐢 𝐫𝐞𝐧𝐝𝐞𝐫𝐚𝐧𝐧𝐨 𝐩𝐢ù 𝐞𝐪𝐮𝐢𝐥𝐢𝐛𝐫𝐚𝐭𝐞 𝐥𝐞 𝐜𝐢𝐮𝐫𝐦𝐞.
-𝟏.𝟐: 𝐋'𝐨𝐫𝐠𝐚𝐧𝐢𝐳𝐳𝐚𝐭𝐨𝐫𝐞 𝐝𝐞𝐟𝐢𝐧𝐢𝐬𝐜𝐞 𝐥'𝐨𝐫𝐚𝐫𝐢𝐨 𝐝𝐢 𝐯𝐞𝐧𝐝𝐢𝐭𝐚 𝐯𝐚𝐥𝐢𝐝𝐨 𝐩𝐞𝐫 𝐭𝐮𝐭𝐭𝐞 𝐥𝐞 𝐜𝐢𝐮𝐫𝐦𝐞, 𝐬𝐞 𝐧𝐨𝐧 𝐩𝐨𝐭𝐞𝐭𝐞 𝐩𝐚𝐫𝐭𝐞𝐜𝐢𝐩𝐚𝐫𝐞 𝐟𝐢𝐧𝐨 𝐚 𝐪𝐮𝐞𝐥𝐥'𝐨𝐫𝐚𝐫𝐢𝐨 𝐧𝐨𝐧 𝐬𝐞𝐠𝐧𝐚𝐭𝐞𝐯𝐢 𝐩𝐞𝐫 𝐥'𝐞𝐯𝐞𝐧𝐭𝐨. 𝐀𝐥 𝐭𝐞𝐫𝐦𝐢𝐧𝐞 𝐝𝐞𝐥𝐥'𝐞𝐯𝐞𝐧𝐭𝐨 𝐢 𝐩𝐢𝐫𝐚𝐭𝐢 𝐜𝐡𝐞 𝐥𝐨 𝐝𝐞𝐬𝐢𝐝𝐞𝐫𝐚𝐧𝐨 𝐩𝐨𝐬𝐬𝐨𝐧𝐨 𝐜𝐨𝐧𝐭𝐢𝐧𝐮𝐚𝐫𝐞 𝐚 𝐠𝐢𝐨𝐜𝐚𝐫𝐞 𝐦𝐚 𝐥'𝐞𝐯𝐞𝐧𝐭𝐨 𝐧𝐨𝐧 𝐞̀ 𝐝𝐚 𝐜𝐨𝐧𝐬𝐢𝐝𝐞𝐫𝐚𝐫𝐬𝐢 𝐩𝐢𝐮̀ 𝐦𝐨𝐝𝐞𝐫𝐚𝐭𝐨 𝐝𝐚𝐥𝐥𝐨 𝐬𝐭𝐚𝐟𝐟 𝐞 𝐨𝐫𝐠𝐚𝐧𝐢𝐳𝐳𝐚𝐭𝐨 𝐝𝐚𝐠𝐥𝐢 𝐄𝐯𝐞𝐧𝐭 𝐌𝐚𝐬𝐭𝐞𝐫 𝐨 𝐄𝐯𝐞𝐧𝐭 𝐇𝐞𝐥𝐩𝐞𝐫.
-𝟏.𝟑: 𝐋𝐞 𝐫𝐢𝐬𝐞𝐫𝐯𝐞 𝐝𝐞𝐯𝐨𝐧𝐨 𝐞𝐬𝐬𝐞𝐫𝐞 𝐩𝐫𝐞𝐬𝐞𝐧𝐭𝐢 𝐚𝐥𝐥'𝐨𝐫𝐚𝐫𝐢𝐨 𝐝𝐞𝐥𝐥'𝐞𝐯𝐞𝐧𝐭𝐨 𝐩𝐞𝐫 𝐚𝐢𝐮𝐭𝐚𝐫𝐞 𝐝𝐮𝐫𝐚𝐧𝐭𝐞 𝐥𝐚 𝐟𝐚𝐬𝐞 𝐝𝐢 𝐏𝐫𝐞𝐩𝐚𝐫𝐚𝐳𝐢𝐨𝐧𝐞. 𝐈𝐧 𝐨𝐫𝐝𝐢𝐧𝐞 𝐝𝐢 𝐩𝐫𝐞𝐧𝐨𝐭𝐚𝐳𝐢𝐨𝐧𝐞 𝐬𝐮𝐛𝐞𝐧𝐭𝐫𝐚𝐧𝐨 𝐚𝐥 𝐩𝐨𝐬𝐭𝐨 𝐝𝐞𝐠𝐥𝐢 𝐚𝐬𝐬𝐞𝐧𝐭𝐢.
-𝟏.𝟒: 𝐄̀ 𝐨𝐩𝐩𝐨𝐫𝐭𝐮𝐧𝐨 𝐜𝐡𝐞 𝐚𝐥𝐦𝐞𝐧𝐨 𝐮𝐧𝐨 𝐩𝐞𝐫 𝐧𝐚𝐯𝐞 𝐮𝐭𝐢𝐥𝐢𝐳𝐳𝐢 𝐝𝐢𝐬𝐜𝐨𝐫𝐝 𝐢𝐧 𝐦𝐨𝐝𝐨 𝐝𝐚 𝐩𝐨𝐭𝐞𝐫 𝐜𝐨𝐦𝐮𝐧𝐢𝐜𝐚𝐫𝐞 𝐜𝐨𝐧 𝐠𝐥𝐢 𝐚𝐥𝐭𝐫𝐢 𝐜𝐚𝐩𝐢𝐭𝐚𝐧𝐢, 𝐢𝐧 𝐜𝐚𝐬𝐨 𝐧𝐨𝐧 𝐬𝐢𝐚 𝐩𝐨𝐬𝐬𝐢𝐛𝐢𝐥𝐞, 𝐫𝐢𝐟𝐞𝐫𝐢𝐫𝐥𝐨 𝐩𝐫𝐞𝐯𝐞𝐧𝐭𝐢𝐯𝐚𝐦𝐞𝐧𝐭𝐞 𝐚𝐥𝐥'𝐨𝐫𝐠𝐚𝐧𝐢𝐳𝐳𝐚𝐭𝐨𝐫𝐞.
-𝟏.𝟓: 𝐂𝐨𝐧𝐭𝐫𝐨𝐥𝐥𝐚𝐭𝐞 𝐛𝐞𝐧𝐞 𝐞 𝐢𝐧 𝐭𝐞𝐦𝐩𝐨 𝐝𝐢 𝐚𝐯𝐞𝐫𝐞 𝐥'𝐮𝐥𝐭𝐢𝐦𝐚 𝐯𝐞𝐫𝐬𝐢𝐨𝐧𝐞 𝐝𝐞𝐥 𝐠𝐢𝐨𝐜𝐨, 𝐢𝐧 𝐜𝐚𝐬𝐨 𝐜𝐨𝐧𝐭𝐫𝐚𝐫𝐢𝐨 𝐯𝐞𝐫𝐫𝐞𝐭𝐞 𝐞𝐥𝐢𝐦𝐢𝐧𝐚𝐭𝐢 𝐝𝐚𝐥 𝐣𝐮𝐦𝐩.
-𝟏.𝟔: 𝐏𝐞𝐫 𝐯𝐞𝐥𝐨𝐜𝐢𝐳𝐳𝐚𝐫𝐞 𝐢𝐥 𝐭𝐮𝐭𝐭𝐨 𝐝𝐮𝐫𝐚𝐧𝐭𝐞 𝐥𝐚 𝐟𝐚𝐬𝐞 𝐩𝐫𝐞𝐥𝐢𝐦𝐢𝐧𝐚𝐫𝐞 𝐝𝐞𝐥𝐥'𝐞𝐯𝐞𝐧𝐭𝐨 𝐞̀ 𝐫𝐢𝐜𝐡𝐢𝐞𝐬𝐭𝐨 𝐝𝐢 𝐦𝐚𝐧𝐭𝐞𝐧𝐞𝐫𝐞 𝐥'𝐨𝐫𝐝𝐢𝐧𝐞 𝐞𝐝 𝐚𝐬𝐜𝐨𝐥𝐭𝐚𝐫𝐞 𝐥'𝐨𝐫𝐠𝐚𝐧𝐢𝐳𝐳𝐚𝐭𝐨𝐫𝐞 𝐜𝐨𝐦𝐮𝐧𝐢𝐜𝐚𝐧𝐝𝐨 𝐬𝐨𝐥𝐨 𝐥'𝐞𝐬𝐬𝐞𝐧𝐳𝐢𝐚𝐥𝐞 𝐩𝐞𝐫 𝐢𝐥 𝐜𝐨𝐫𝐫𝐞𝐭𝐭𝐨 𝐬𝐯𝐨𝐥𝐠𝐢𝐦𝐞𝐧𝐭𝐨 𝐝𝐞𝐥𝐥'𝐞𝐯𝐞𝐧𝐭𝐨.
-𝟏.𝟕: 𝐄̀ 𝐜𝐨𝐧𝐬𝐞𝐧𝐭𝐢𝐭𝐨 𝐮𝐧 𝐫𝐢𝐭𝐚𝐫𝐝𝐨 𝐚𝐦𝐦𝐞𝐬𝐬𝐨 𝐝𝐢 𝟏𝟓 𝐦𝐢𝐧𝐮𝐭𝐢 𝐝𝐚𝐥𝐥'𝐢𝐧𝐢𝐳𝐢𝐨 𝐝𝐞𝐥 𝐞𝐯𝐞𝐧𝐭𝐨 𝐩𝐫𝐞𝐯𝐢𝐨 𝐚𝐯𝐯𝐢𝐬𝐨 𝐚𝐥𝐥'𝐨𝐫𝐠𝐚𝐧𝐢𝐳𝐳𝐚𝐭𝐨𝐫𝐞 𝐨 𝐧𝐞𝐥 𝐜𝐚𝐧𝐚𝐥𝐞
-⁠🎌│organizzazione
-𝟏.𝟖: 𝐋'𝐢𝐬𝐜𝐫𝐢𝐳𝐢𝐨𝐧𝐞 𝐚 𝐮𝐧 𝐞𝐯𝐞𝐧𝐭𝐨 𝐞̀ 𝐩𝐞𝐫𝐬𝐨𝐧𝐚𝐥𝐞 𝐞 𝐧𝐨𝐧 𝐬𝐚𝐫𝐚𝐧𝐧𝐨 𝐚𝐜𝐜𝐞𝐭𝐭𝐚𝐭𝐞 𝐢𝐬𝐜𝐫𝐢𝐳𝐢𝐨𝐧𝐢 𝐩𝐞𝐫 𝐜𝐨𝐧𝐭𝐨 𝐝𝐢 𝐚𝐥𝐭𝐫𝐢.
-𝟏.𝟗: 𝐋𝐞 𝐜𝐢𝐮𝐫𝐦𝐞 𝐬𝐚𝐫𝐚𝐧𝐧𝐨 𝐟𝐨𝐫𝐦𝐚𝐭𝐞 𝐬𝐞𝐜𝐨𝐧𝐝𝐨 𝐝𝐞𝐢 𝐜𝐫𝐢𝐭𝐞𝐫𝐢, 𝐞𝐥𝐞𝐧𝐜𝐚𝐭𝐢 𝐢𝐧 𝐨𝐫𝐝𝐢𝐧𝐞 𝐝𝐢 𝐩𝐫𝐢𝐨𝐫𝐢𝐭𝐚̀: 𝐁𝐢𝐥𝐚𝐧𝐜𝐢𝐚𝐦𝐞𝐧𝐭𝐨 (𝐨𝐫𝐞 𝐝𝐢 𝐠𝐢𝐨𝐜𝐨);𝐂𝐨𝐩𝐩𝐢𝐞 𝐜𝐡𝐞 𝐬𝐢 𝐭𝐫𝐨𝐯𝐚𝐧𝐨 𝐧𝐞𝐥 𝐬𝐞𝐫𝐯𝐞𝐫 𝐝𝐮𝐫𝐚𝐧𝐭𝐞 𝐥𝐞 𝐟𝐚𝐬𝐢 𝐢𝐧𝐳𝐢𝐚𝐥𝐢.
+:Libr06Fog1i: 1: 「 PREPARAZIONE 」
+1.1. Se sei nuovo del gioco avvisa in anticipo, si renderanno più equilibrate le ciurme.
+1.2: L'organizzatore definisce l'orario di vendita valido per tutte le ciurme, se non potete partecipare fino a quell'orario non segnatevi per l'evento. Al termine dell'evento i pirati che lo desiderano possono continuare a giocare ma l'evento non è da considerarsi più moderato dallo staff e organizzato dagli Event Master o Event Helper.
+1.3: Le riserve devono essere presenti all'orario dell'evento per aiutare durante la fase di Preparazione. In ordine di prenotazione subentrano al posto degli assenti.
+1.4: E opportuno che almeno uno per nave utilizzi discord in modo da poter comunicare con gli altri capitani, in caso non sia possibile, riferirlo preventivamente all'organizzatore.
+1.5: Controllate bene e in tempo di avere l'ultima versione del gioco, in caso contrario verrete eliminati dall'evento.
+1.6: Per velocizzare il tutto durante la fase preliminare dell'evento è richiesto di mantenere l'ordine ed ascoltare l'organizzatore comunicando solo l'essenziale per il corretto svolgimento dell'evento.
+1.7: E consentito un ritardo ammesso di 15 minuti dall'inizio del evento previo avviso all'organizzatore o nel canale ⁠#🎌│organizzazione
+1.8: L'iscrizione a un evento è personale e non saranno accettate iscrizioni per conto di altri.
+1.9: Le ciurme saranno formate secondo dei criteri, elencati in ordine di priorità: Bilanciamento (ore di gioco);Coppie che si trovano nel server durante le fasi inziali.
 
-:Libro6Fogli: 2:「 ɢɪʟᴅᴇ 」
-𝟐.𝟏: 𝐋𝐞 𝐠𝐢𝐥𝐝𝐞 𝐬𝐜𝐚𝐥𝐦𝐚𝐧𝐚𝐭𝐞 𝐩𝐨𝐬𝐬𝐨𝐧𝐨 𝐩𝐚𝐫𝐭𝐞𝐜𝐢𝐩𝐚𝐫𝐞 𝐚𝐠𝐥𝐢 𝐞𝐯𝐞𝐧𝐭𝐢 𝐦𝐚 𝐬𝐞𝐧𝐳𝐚 𝐮𝐬𝐚𝐫𝐞 𝐥'𝐞𝐦𝐢𝐬𝐬𝐚𝐫𝐢𝐨 𝐠𝐢𝐥𝐝𝐚 𝐬𝐞 𝐧𝐨𝐧 𝐫𝐢𝐜𝐡𝐢𝐞𝐬𝐭𝐨 𝐢𝐧 𝐚𝐥𝐜𝐮𝐧𝐢 𝐭𝐢𝐩𝐨 𝐝𝐢 𝐞𝐯𝐞𝐧𝐭𝐢.
-𝟐.𝟐: 𝐐𝐮𝐚𝐧𝐝𝐨 𝐮𝐧𝐚 𝐠𝐢𝐥𝐝𝐚 𝐩𝐚𝐫𝐭𝐞𝐜𝐢𝐩𝐚 𝐚𝐥𝐥'𝐞𝐯𝐞𝐧𝐭𝐨, 𝐢 𝐫𝐢𝐬𝐩𝐞𝐭𝐭𝐢𝐯𝐢 𝐜𝐚𝐩𝐨 𝐠𝐢𝐥𝐝𝐚 𝐝𝐞𝐯𝐨𝐧𝐨 𝐞𝐬𝐬𝐞𝐫𝐞 𝐩𝐫𝐞𝐬𝐞𝐧𝐭𝐢 𝐚𝐥𝐥'𝐞𝐯𝐞𝐧𝐭𝐨.𝐈𝐧 𝐜𝐚𝐬𝐨 𝐝𝐢 𝐩𝐫𝐨𝐛𝐥𝐞𝐦𝐢 𝐚𝐯𝐯𝐢𝐬𝐚𝐫𝐞 𝐚𝐥𝐦𝐞𝐧𝐨 𝐮𝐧'𝐨𝐫𝐚 𝐩𝐫𝐢𝐦𝐚 𝐥'𝐨𝐫𝐠𝐚𝐧𝐢𝐳𝐳𝐚𝐭𝐨𝐫𝐞 𝐝𝐞𝐥𝐥'𝐞𝐯𝐞𝐧𝐭𝐨.
-𝟐.𝟑: 𝐈 𝐜𝐚𝐩𝐢 𝐠𝐢𝐥𝐝𝐚 𝐬𝐨𝐧𝐨 𝐝𝐢𝐫𝐞𝐭𝐭𝐚𝐦𝐞𝐧𝐭𝐞 𝐫𝐞𝐬𝐩𝐨𝐧𝐬𝐚𝐛𝐢𝐥𝐢 𝐝𝐞𝐥𝐥𝐚 𝐩𝐫𝐨𝐩𝐫𝐢𝐚 𝐠𝐢𝐥𝐝𝐚, 𝐞𝐬𝐬𝐢 𝐩𝐨𝐬𝐬𝐨𝐧𝐨 𝐝𝐞𝐥𝐞𝐠𝐚𝐫𝐞 𝐮𝐧 𝐚𝐥𝐭𝐫𝐨 𝐦𝐞𝐦𝐛𝐫𝐨 𝐝𝐞𝐥𝐥𝐚 𝐩𝐫𝐨𝐩𝐫𝐢𝐚 𝐠𝐢𝐥𝐝𝐚 𝐩𝐞𝐫 𝐩𝐚𝐫𝐭𝐞𝐜𝐢𝐩𝐚𝐫𝐞 𝐚𝐥𝐥'𝐞𝐯𝐞𝐧𝐭𝐨.
-𝟐.𝟒: 𝐈𝐧 𝐜𝐚𝐬𝐨 𝐝𝐢 𝐦𝐚𝐧𝐜𝐚𝐭𝐨 𝐚𝐯𝐯𝐢𝐬𝐨 𝐬𝐚𝐫𝐚̀ 𝐫𝐢𝐭𝐞𝐧𝐮𝐭𝐚 𝐫𝐞𝐬𝐩𝐨𝐧𝐬𝐚𝐛𝐢𝐥𝐞 𝐭𝐮𝐭𝐭𝐚 𝐥𝐚 𝐠𝐢𝐥𝐝𝐚 𝐞 𝐧𝐨𝐧 𝐩𝐨𝐭𝐫𝐚𝐧𝐧𝐨 𝐩𝐚𝐫𝐭𝐞𝐜𝐢𝐩𝐚𝐫𝐞 𝐚𝐥𝐥'𝐞𝐯𝐞𝐧𝐭𝐨 𝐠𝐢𝐥𝐝𝐞 𝐬𝐮𝐜𝐜𝐞𝐬𝐬𝐢𝐯𝐨.
+: Libr06Fog1i: 2: 「 GILDE 」
+2.1: Le gilde scalmanate possono partecipare agli eventi ma senza usare l'emissario gilda se non richiesto in alcuni tipo di eventi.
+2.2: Quando una gilda partecipa all'evento, i rispettivi capo gilda devono essere presenti all'evento. In caso di problemi avvisare almeno un'ora prima l'organizzatore dell'evento.
+2.3: I capi gilda sono direttamente responsabili della propria gilda, essi possono delegare un altro membro della propria gilda per partecipare all'evento.
+2.4: In caso di mancato avviso sarà ritenuta responsabile tutta la gilda e non potranno partecipare all'evento gilde successivo.
 
-:Libro6Fogli: 3:「 ʙᴜᴏɴᴀ ᴄᴏɴᴅᴏᴛᴛᴀ 」
-𝟑.𝟏: 𝐍𝐨𝐧 𝐬𝐚𝐥𝐢𝐫𝐞 𝐬𝐮𝐥𝐥𝐞 𝐧𝐚𝐯𝐢 𝐝𝐞𝐠𝐥𝐢 𝐚𝐥𝐭𝐫𝐢 𝐞 𝐚𝐩𝐩𝐫𝐨𝐩𝐫𝐢𝐚𝐫𝐬𝐢 𝐝𝐞𝐥 𝐥𝐨𝐨𝐭 𝐞/𝐨 𝐝𝐞𝐥𝐥𝐞 𝐫𝐢𝐬𝐨𝐫𝐬𝐞 𝐬𝐞𝐧𝐳𝐚 𝐚𝐮𝐭𝐨𝐫𝐢𝐳𝐳𝐚𝐳𝐢𝐨𝐧𝐞.
-𝟑.𝟐: 𝐍𝐨𝐧 𝐚𝐭𝐭𝐚𝐜𝐜𝐚𝐫𝐞 𝐠𝐥𝐢 𝐚𝐥𝐥𝐞𝐚𝐭𝐢, 𝐜𝐨𝐧𝐭𝐫𝐨𝐥𝐥𝐚𝐫𝐞 𝐬𝐮𝐥𝐥𝐚 𝐦𝐚𝐩𝐩𝐚 𝐩𝐫𝐢𝐦𝐚 𝐝𝐢 𝐚𝐩𝐫𝐢𝐫𝐞 𝐢𝐥 𝐟𝐮𝐨𝐜𝐨.
-𝟑.𝟑: 𝐍𝐞𝐬𝐬𝐮𝐧 𝐚𝐭𝐭𝐨 𝐝𝐢 𝐬𝐚𝐛𝐨𝐭𝐚𝐠𝐠𝐢𝐨 𝐯𝐨𝐥𝐨𝐧𝐭𝐚𝐫𝐢𝐨 𝐬𝐚𝐫𝐚̀ 𝐭𝐨𝐥𝐥𝐞𝐫𝐚𝐭𝐨! 𝐚𝐭𝐭𝐚𝐜𝐜𝐚𝐫𝐞 𝐠𝐥𝐢 𝐚𝐥𝐭𝐫𝐢 𝐩𝐢𝐫𝐚𝐭𝐢, 𝐮𝐭𝐢𝐥𝐢𝐳𝐳𝐚𝐫𝐞 𝐛𝐨𝐦𝐛𝐞 𝐢𝐧𝐜𝐞𝐧𝐝𝐢𝐚𝐫𝐢𝐞/𝐞𝐬𝐩𝐥𝐨𝐬𝐢𝐯𝐞, 𝐛𝐚𝐫𝐢𝐥𝐢 𝐞𝐬𝐩𝐥𝐨𝐬𝐢𝐯𝐢, 𝐧𝐨𝐧 𝐩𝐚𝐫𝐭𝐞𝐜𝐢𝐩𝐚𝐫𝐞 𝐚𝐥𝐥𝐚 𝐠𝐞𝐬𝐭𝐢𝐨𝐧𝐞 𝐝𝐞𝐥𝐥𝐚 𝐧𝐚𝐯𝐞, 𝐚𝐧𝐝𝐚𝐫𝐞 𝐫𝐢𝐩𝐞𝐭𝐮𝐭𝐚𝐦𝐞𝐧𝐭𝐞 𝐢𝐧 𝐚𝐟𝐤 𝐞 𝐪𝐮𝐚𝐥𝐬𝐢𝐚𝐬𝐢 𝐚𝐥𝐭𝐫𝐨 𝐜𝐨𝐦𝐩𝐨𝐫𝐭𝐚𝐦𝐞𝐧𝐭𝐨 𝐜𝐡𝐞 𝐩𝐨𝐬𝐬𝐚 𝐧𝐮𝐨𝐜𝐞𝐫𝐞 𝐚𝐥𝐥𝐚 𝐬𝐭𝐚𝐛𝐢𝐥𝐢𝐭𝐚̀ 𝐞 𝐭𝐫𝐚𝐧𝐪𝐮𝐢𝐥𝐥𝐢𝐭𝐚̀ 𝐝𝐞𝐥𝐥'𝐞𝐯𝐞𝐧𝐭𝐨, 𝐢𝐧 𝐛𝐚𝐬𝐞 𝐚𝐥𝐥𝐚 𝐠𝐫𝐚𝐯𝐢𝐭𝐚̀, 𝐩𝐨𝐬𝐬𝐨𝐧𝐨 𝐞𝐬𝐬𝐞𝐫𝐞 𝐜𝐚𝐮𝐬𝐚 𝐝𝐢 𝐚𝐦𝐦𝐨𝐧𝐢𝐦𝐞𝐧𝐭𝐨 𝐨 𝐛𝐚𝐧.
-𝟑.𝟒: 𝐏𝐞𝐫 𝐚𝐧𝐧𝐮𝐥𝐥𝐚𝐫𝐞 𝐥'𝐢𝐬𝐜𝐫𝐢𝐳𝐢𝐨𝐧𝐞 𝐚𝐝 𝐮𝐧 𝐞𝐯𝐞𝐧𝐭𝐨, 𝐬𝐜𝐫𝐢𝐯𝐞𝐫𝐞 𝐢𝐧 𝐩𝐫𝐢𝐯𝐚𝐭𝐨 𝐚𝐥𝐥'𝐨𝐫𝐠𝐚𝐧𝐢𝐳𝐳𝐚𝐭𝐨𝐫𝐞 𝐨 𝐧𝐞𝐥𝐥𝐚 𝐜𝐡𝐚𝐭
-⁠🎌│organizzazione
-𝟑.𝟓: 𝐂𝐨𝐦𝐞 𝐢𝐧 𝐭𝐮𝐭𝐭𝐞 𝐥𝐞 𝐜𝐨𝐬𝐞 𝐬𝐢 𝐚𝐩𝐩𝐥𝐢𝐜𝐚 𝐒𝐄𝐌𝐏𝐑𝐄 𝐥𝐚 𝐫𝐞𝐠𝐨𝐥𝐚 𝐝𝐞𝐥 𝐛𝐮𝐨𝐧𝐬𝐞𝐧𝐬𝐨, 𝐢𝐧 𝐜𝐚𝐬𝐨 𝐝𝐢 𝐮𝐧𝐨 𝐬𝐜𝐞𝐧𝐚𝐫𝐢𝐨 𝐬𝐜𝐨𝐫𝐫𝐞𝐭𝐭𝐨 𝐧𝐨𝐧 𝐩𝐚𝐥𝐞𝐬𝐞𝐦𝐞𝐧𝐭𝐞 𝐫𝐞𝐠𝐨𝐥𝐚𝐫𝐢𝐳𝐳𝐚𝐭𝐨 (𝐧𝐨𝐧 𝐩𝐫𝐞𝐬𝐞𝐧𝐭𝐞 𝐧𝐞𝐥 𝐫𝐞𝐠𝐨𝐥𝐚𝐦𝐞𝐧𝐭𝐨 𝐚𝐥𝐥𝐞𝐚𝐧𝐳𝐚) 𝐬𝐢 𝐫𝐢𝐬𝐜𝐡𝐢𝐚 𝐮𝐠𝐮𝐚𝐥𝐦𝐞𝐧𝐭𝐞 𝐮𝐧 𝐚𝐦𝐦𝐨𝐧𝐢𝐳𝐢𝐨𝐧𝐞 𝐨 𝐛𝐚𝐧 𝐢𝐧 𝐛𝐚𝐬𝐞 𝐚𝐥𝐥𝐚 𝐠𝐫𝐚𝐯𝐢𝐭𝐚̀ 𝐝𝐞𝐥𝐥𝐚 𝐬𝐢𝐭𝐮𝐚𝐳𝐢𝐨𝐧𝐞.
+:Libr06Fog1i: 3: 「 BUONA CONDOTTA 」
+3.1: Non salire sulle navi degli altri e appropriarsi del loot e/o delle risorse senza autorizzazione.
+3.2: Non attaccare gli alleati, controllare sulla mappa prima di aprire il fuoco.
+3.3: Nessun atto di sabotaggio volontario sarà tollerato! attaccare gli altri pirati, utilizzare bombe incendiarie/esplosive, barili esplosivi, non partecipare alla gestione della nave, andare ripetutamente in afk e qualsiasi altro comportamento che possa nuocere alla stabilità e tranquillità dell'evento, in base alla gravità, possono essere causa di ammonimento o ban.
+3.4: Per annullare I'iscrizione ad un evento, scrivere in privato all'organizzatore o nella chat ⁠⁠#🎌│organizzazione.
+3.5: Come in tutte le cose si applica SEMPRE la regola del buonsenso, in caso di uno scenario scorretto non palesemente regolarizzato (non presente nel regolamento alleanza) si rischia ugualmente un ammonizione o il ban in base alla gravità della situazione.
 
-:Libro6Fogli: 「 ᴘʀᴏᴠᴠᴇᴅɪᴍᴇɴᴛɪ 」
+:Libr06Fog1i: 「 PROVVEDIMENTI 」
+* Alla prima ammonizione: ban per l'evento successivo.
+* Alla seconda ammonizione: ban per due eventi successivi.
+* Alla terza ammonizione: ban di un mese agli eventi alleanza.
+* Alla quarta ammonizione: si valuta il ban definitivo dell 'utente dagli eventi scalmanati.
 
-* 𝐀𝐥𝐥𝐚 𝐩𝐫𝐢𝐦𝐚 𝐚𝐦𝐦𝐨𝐧𝐢𝐳𝐢𝐨𝐧𝐞: 𝐛𝐚𝐧 𝐩𝐞𝐫 𝐥'𝐞𝐯𝐞𝐧𝐭𝐨 𝐬𝐮𝐜𝐜𝐞𝐬𝐬𝐢𝐯𝐨.
-* 𝐀𝐥𝐥𝐚 𝐬𝐞𝐜𝐨𝐧𝐝𝐚 𝐚𝐦𝐦𝐨𝐧𝐢𝐳𝐢𝐨𝐧𝐞: 𝐛𝐚𝐧 𝐩𝐞𝐫 𝐝𝐮𝐞 𝐞𝐯𝐞𝐧𝐭𝐢 𝐬𝐮𝐜𝐜𝐞𝐬𝐬𝐢𝐯𝐢.
-* 𝐀𝐥𝐥𝐚 𝐭𝐞𝐫𝐳𝐚 𝐚𝐦𝐦𝐨𝐧𝐢𝐳𝐢𝐨𝐧𝐞: 𝐛𝐚𝐧 𝐝𝐢 𝐮𝐧 𝐦𝐞𝐬𝐞 𝐚𝐠𝐥𝐢 𝐞𝐯𝐞𝐧𝐭𝐢 𝐚𝐥𝐥𝐞𝐚𝐧𝐳𝐚.
-* 𝐀𝐥𝐥𝐚 𝐪𝐮𝐚𝐫𝐭𝐚 𝐚𝐦𝐦𝐨𝐧𝐢𝐳𝐢𝐨𝐧𝐞: 𝐬𝐢 𝐯𝐚𝐥𝐮𝐭𝐚 𝐢𝐥 𝐛𝐚𝐧 𝐝𝐞𝐟𝐢𝐧𝐢𝐭𝐢𝐯𝐨 𝐝𝐞𝐥𝐥'𝐮𝐭𝐞𝐧𝐭𝐞 𝐝𝐚𝐠𝐥𝐢 𝐞𝐯𝐞𝐧𝐭𝐢 𝐬𝐜𝐚𝐥𝐦𝐚𝐧𝐚𝐭𝐢.
-
-𝐐𝐮𝐞𝐬𝐭𝐞 𝐫𝐞𝐠𝐨𝐥𝐞 𝐬𝐞𝐫𝐯𝐨𝐧𝐨 𝐩𝐞𝐫 𝐜𝐞𝐫𝐜𝐚𝐫𝐞 𝐝𝐢 𝐫𝐞𝐧𝐝𝐞𝐫𝐞 𝐥'𝐞𝐬𝐩𝐞𝐫𝐢𝐞𝐧𝐳𝐚 𝐝𝐞𝐥'𝐞𝐯𝐞𝐧𝐭𝐨 𝐦𝐢𝐠𝐥𝐢𝐨𝐫𝐞 𝐩𝐞𝐫 𝐭𝐮𝐭𝐭𝐢, 𝐪𝐮𝐢𝐧𝐝𝐢 𝐯𝐢 𝐩𝐫𝐞𝐠𝐡𝐢𝐚𝐦𝐨 𝐝𝐢 𝐥𝐞𝐠𝐠𝐞𝐫𝐥𝐞 𝐞 𝐝𝐢 𝐫𝐢𝐬𝐩𝐞𝐭𝐭𝐚𝐫𝐥𝐞.
-
-𝐈𝐥 𝐫𝐞𝐠𝐨𝐥𝐚𝐦𝐞𝐧𝐭𝐨 𝐧𝐨𝐧 𝐞̀ 𝐝𝐞𝐟𝐢𝐧𝐢𝐭𝐢𝐯𝐨, 𝐢𝐧 𝐜𝐚𝐬𝐨 𝐝𝐢 𝐯𝐚𝐫𝐢𝐚𝐳𝐢𝐨𝐧𝐢 𝐥𝐨 𝐬𝐭𝐚𝐟𝐟 𝐚𝐯𝐯𝐢𝐬𝐞𝐫𝐚̀ 𝐥'𝐮𝐭𝐞𝐧𝐳𝐚 𝐢𝐧 𝐦𝐨𝐝𝐨 𝐝𝐚 𝐩𝐨𝐭𝐞𝐫𝐬𝐢 𝐚𝐠𝐠𝐢𝐨𝐫𝐧𝐚𝐫𝐞.
-
-𝐀𝐥𝐥𝐚 𝐟𝐢𝐧𝐞 𝐝𝐢 𝐨𝐠𝐧𝐢 𝐞𝐯𝐞𝐧𝐭𝐨 𝐯𝐢𝐞𝐧𝐞 𝐬𝐭𝐢𝐥𝐚𝐭𝐨 𝐮𝐧 𝐫𝐞𝐬𝐨𝐜𝐨𝐧𝐭𝐨 𝐠𝐞𝐧𝐞𝐫𝐚𝐥𝐞 𝐝𝐚𝐥𝐥'𝐨𝐫𝐠𝐚𝐧𝐢𝐳𝐳𝐚𝐭𝐨𝐫𝐞 𝐜𝐡𝐞 è 𝐩𝐨𝐬𝐬𝐢𝐛𝐢𝐥𝐞 𝐯𝐢𝐬𝐢𝐨𝐧𝐚𝐫𝐞 𝐬𝐮 𝐥𝐞𝐜𝐢𝐭𝐚 𝐫𝐢𝐜𝐡𝐢𝐞𝐬𝐭𝐚 𝐚𝐥𝐥'𝐄𝐯𝐞𝐧𝐭 𝐌𝐚𝐬𝐭𝐞𝐫.
-
-𝐒𝐞 𝐡𝐚𝐢 𝐥𝐞𝐭𝐭𝐨 𝐢𝐥 𝐫𝐞𝐠𝐨𝐥𝐚𝐦𝐞𝐧𝐭𝐨 𝐞 𝐚𝐜𝐜𝐞𝐭𝐭𝐢 𝐭𝐮𝐭𝐭𝐞 𝐥𝐞 𝐬𝐮𝐞 𝐩𝐚𝐫𝐭𝐢 𝐜𝐥𝐢𝐜𝐜𝐚 𝐬𝐮𝐥 𝐩𝐮𝐥𝐬𝐚𝐧𝐭𝐞 '𝐀𝐂𝐂𝐄𝐓𝐓𝐀' 𝐩𝐞𝐫 𝐩𝐨𝐭𝐞𝐫 𝐩𝐚𝐫𝐭𝐞𝐜𝐢𝐩𝐚𝐫𝐞 𝐚𝐠𝐥𝐢 𝐞𝐯𝐞𝐧𝐭𝐢.
-
-𝐍𝐞𝐥 𝐦𝐨𝐦𝐞𝐧𝐭𝐨 𝐢𝐧 𝐜𝐮𝐢 𝐬𝐢 𝐚𝐜𝐜𝐞𝐭𝐭𝐚, 𝐢𝐥 𝐫𝐞𝐠𝐨𝐥𝐚𝐦𝐞𝐧𝐭𝐨 𝐚𝐥𝐥𝐞𝐚𝐧𝐳𝐚 𝐫𝐢𝐬𝐮𝐥𝐭𝐞𝐫𝐚̀ 𝐚𝐜𝐜𝐞𝐭𝐭𝐚𝐭𝐨 𝐢𝐧 𝐭𝐮𝐭𝐭𝐞 𝐥𝐞 𝐬𝐮𝐞 𝐩𝐚𝐫𝐭𝐢 𝐝𝐚𝐥𝐥'𝐮𝐭𝐞𝐧𝐭𝐞.
+Queste regole servono per cercare di rendere l'esperienza dell'evento migliore per tutti, quindi vi preghiamo di leggerle e di rispettarle.
+Il regolamento non è definitivo, in caso di variazioni lo staff avviserà l'utenza in modo da potersi aggiornare.
+Alla fine di ogni evento viene stilato un resoconto generale dall'organizzatore che è possibile visionare su lecita richiesta all'Event Master.
+Se hai letto il regolamento e accetti tutte le sue parti clicca sul pulsante `ACCETTA` per poter partecipare agli eventi.
+Nel momento in cui si accetta, il regolamento alleanza risulterà accettato in tutte le sue parti dall'utente.
