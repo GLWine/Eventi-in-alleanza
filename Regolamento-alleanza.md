@@ -17,7 +17,7 @@ Inoltre, vengono indicate le penalità, in cosa consistono e come vengono applic
    - Allo scadere di questo tempo, si applicherà un'ammonizione per assenza ingiustificata (tuttavia sarà valutata, secondo la regola del buon senso, la mancata ammonizione in caso di comprovati e/o giustificati motivi, entro 48).
 7. **Dove disiscriversi**: è possibile effettuare la disiscrizione nel canale <#1205935629570146367>.
    - Le disiscrizioni indicate al di fuori di questo canale non saranno prese in carico, con il rischio di un’ammonizione per mancato avviso.
-8. **Come disiscriversi**: per disiscriversi, scrivete nel canale: `Mi ritiro - Nome dell'Evento a cui si è Iscritti - (gg/mm/aaaa) `*`@Nome_Organizzatore`*. Non è necessario indicare una motivazione, ma va fatto almeno **1 giorno prima** dell'evento.
+8. **Come disiscriversi**: per disiscriversi, scrivete nel canale: `Mi ritiro - Nome dell'Evento a cui si è Iscritti - (gg/mm/aaaa)`*`@Nome_Organizzatore`*. Non è necessario indicare una motivazione, ma va fatto almeno **1 giorno prima** dell'evento.
    - Se non verranno rispettate le indicazioni sulle tempistiche, si incorrerà in un'ammonizione.
 9. **Emergenze**: è possibile disiscriversi all'ultimo minuto; tuttavia, lo si potrà fare per emergenze. Vi si chiede di non abusare di questa possibilità.
    - Se la cosa dovesse diventare sistematica o verrete visti giocare altrove, allora vi verrà applicata un'ammonizione.
@@ -44,7 +44,7 @@ Inoltre, vengono indicate le penalità, in cosa consistono e come vengono applic
    - In caso di inadempienza, l'organizzatore si riserva il diritto di redarguire la ciurma. In caso di mancato adempimento dopo il richiamo, si incorrerà in un'ammonizione di gilda.
 2. **Capo gilda**: quando una gilda partecipa all'evento, il capo gilda deve essere presente all'evento o chi ne fa le veci.
 3. **Vicecapo gilda**: qualora il capo gilda non potesse partecipare, può delegare a un vicecapo della propria gilda.
-4. **Delega**: deve essere comunicata almeno **1 giorno prima** nel canale <#1205935629570146367>. Va indicata come segue: `Io capo gilda di `*`@nome_gilda`*` delego a vicecapo `*`@nome_vicecapo`*` - Nome dell'Evento a cui si è Iscritti - (gg/mm/aaaa) `*`@Nome_Organizzatore`*. In caso di emergenze, vale la regola della sezione 1, articolo 10, ma va comunque comunicato un Vicecapo.
+4. **Delega**: deve essere comunicata almeno **1 giorno prima** nel canale <#1205935629570146367>. Va indicata come segue: `Io capo gilda di`*`@nome_gilda`*`delego a vicecapo`*`@nome_vicecapo`*`- Nome dell'Evento a cui si è Iscritti - (gg/mm/aaaa)`*`@Nome_Organizzatore`*. In caso di emergenze, vale la regola della sezione 1, articolo 10, ma va comunque comunicato un Vicecapo.
    - Il mancato preavviso per tempo comporterà un'ammonizione di gilda.
 5. **Doveri del capo gilda**: i capi gilda sono direttamente responsabili della propria gilda; quindi, sono tenuti a moderarli di conseguenza.
    - Il mancato rispetto delle regole comporterà un’ammonizione di gilda.
@@ -61,7 +61,7 @@ Inoltre, vengono indicate le penalità, in cosa consistono e come vengono applic
 > Le vostre azioni avranno delle conseguenze, di seguito sono indicati gli effetti che hanno i tipi di moderazione.
 - **Prima o seconda ammonizione**: BAN per l'evento successivo.
 - **Terza ammonizione**: BAN di un mese agli eventi alleanza.
-- **Quarta ammonizione**: si valuta il BAN di 6 mesi dell'utente dagli eventi.
+- **Quarta ammonizione**: si valuta il __BAN di 6__ mesi dell'utente dagli eventi.
 
 ### :Libro6Fogli: Sezione 6: 「 NOTE FINALI 」
 - Il regolamento non è definitivo, in caso di variazioni lo staff avviserà l'utenza in modo da potersi aggiornare.
