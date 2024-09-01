@@ -60,8 +60,8 @@ Inoltre, vengono indicate le penalità, in cosa consistono e come vengono applic
 ### :Libro6Fogli: Sezione 5: 「 PROVVEDIMENTI 」
 > Le vostre azioni avranno delle conseguenze, di seguito sono indicati gli effetti che hanno i tipi di moderazione.
 - **Prima o seconda ammonizione**: BAN per l'evento successivo.
-- **Terza ammonizione**: BAN di un mese agli eventi alleanza.
-- **Quarta ammonizione**: si valuta il __BAN di 6__ mesi dell'utente dagli eventi.
+- **Terza ammonizione**: BAN di un mese dagli eventi alleanza.
+- **Quarta ammonizione**: si valuta il __BAN di 6 mesi__ dell'utente dagli eventi alleanza.
 
 ### :Libro6Fogli: Sezione 6: 「 NOTE FINALI 」
 - Il regolamento non è definitivo, in caso di variazioni lo staff avviserà l'utenza in modo da potersi aggiornare.
